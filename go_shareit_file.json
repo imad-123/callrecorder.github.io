@@ -1,0 +1,57 @@
+{
+  "ADS_STATION": [
+    {
+
+      "HouseAds_package_1": "com.kiloo.subwaysurf",
+      "HouseAds_title_1": "guide for 1",
+      "HouseAds_discripton_1": "11111111111111",
+      "HouseAds_image_1": "https://i.imgur.com/XZHOjBO.jpg",
+      "HouseAds_icon_1": "https://i.imgur.com/P6eHtK0.jpg",
+	  
+
+      "HouseAds_package_2": "com.kiloo.subwaysurf",
+      "HouseAds_title_2": "guide for 2",
+      "HouseAds_discripton_2": "222222222222222222",
+      "HouseAds_image_2": "https://i.imgur.com/cV1qZkF.jpg",
+      "HouseAds_icon_2": "https://i.imgur.com/P6eHtK0.jpg",
+	  
+
+      "HouseAds_package_3": "com.kiloo.subwaysurf",
+      "HouseAds_title_3": "guide for 3",
+      "HouseAds_discripton_3": "333333333333333",
+      "HouseAds_image_3": "https://i.imgur.com/CAJ9Jzs.jpg",
+      "HouseAds_icon_3": "https://i.imgur.com/P6eHtK0.jpg",
+	  
+
+      "HouseAds_package_4": "com.kiloo.subwaysurf",
+      "HouseAds_title_4": "guide for 4",
+      "HouseAds_discripton_4": "444444444444444444",
+      "HouseAds_image_4": "https://i.imgur.com/fn94nla.jpg",
+      "HouseAds_icon_4": "https://i.imgur.com/P6eHtK0.jpg",
+
+
+
+      "ActiveAds": "facebook",
+	  
+
+      "IronSource_App_Key": "XXXXXX",
+      "IronSource_interstitial": "YOUR_PLACEMENT_ID",
+      "IronSource_banner": "YOUR_PLACEMENT_ID",
+	  
+      "Unity_id": "XXXXXX",
+      "Unity_banner_Placement": "YOUR_PLACEMENT_ID",
+      "Unity_interstitial_Placement": "YOUR_PLACEMENT_ID",
+	  
+	  
+      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+	  
+      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "Admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "Admob_banner": "ca-app-pub-3940256099942544/6300978111"
+	  
+    }
+  ]
+}
