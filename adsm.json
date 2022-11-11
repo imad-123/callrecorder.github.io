@@ -14,7 +14,10 @@
   
 "clicks_number":"3",
 
-"network_choice":"admob" 
+"banner_network_choice":"admob", //admob,facebook,ironsource
+"interstisial_network_choice":"admob", //admob,facebook,ironsource
+"native":"admob", //admob,facebook
+  
 
 
 }}
