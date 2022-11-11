@@ -14,9 +14,9 @@
   
 "clicks_number":"3",
 
-"banner_network_choice":"admob", //admob,facebook,ironsource
-"interstisial_network_choice":"admob", //admob,facebook,ironsource
-"native":"admob", //admob,facebook
+"banner_network_choice":"admob", "//admob,facebook,ironsource",
+"interstisial_network_choice":"admob", "//admob,facebook,ironsource",
+"native":"admob", "//admob,facebook"
   
 
 
