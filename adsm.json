@@ -16,7 +16,7 @@
 
 "banner_network_choice":"admob", "//options":"//admob,facebook,ironsource",
 "interstisial_network_choice":"facebook", "//options":"//admob,facebook,ironsource",
-"native_network_choice":"admob", "//options":"//admob,facebook",
+"native_network_choice":"native", "//options":"//admob,facebook",
   "maintenance":"no",
   "privacy_link":"www.google.com"
   
