@@ -3,6 +3,7 @@
 "applovin_inter":"269d73adeea133fb",
 "applovin_native":"5534d47212ed8e80",
 "applovin_banner":"d7e5387a22cc8044",
+"applovin_reward":"d7e5387a22cc8044",
   
 "applovin_inter2":"269d73adeea133fb",
 "applovin_native2":"5534d47212ed8e80",
@@ -29,6 +30,7 @@
 "unity_inter":"Interstitial_Android",
 "unity_banner":"Banner_Android",
 "unity_gameid":"5082535",
+ "unity_reward":"d7e5387a22cc8044",
   
 "unity_inter2":"Interstitial_Android",
 "unity_banner2":"Banner_Android",
@@ -106,9 +108,11 @@
 "rate_photo":"https://github.com/imad-123/callrecorder.github.io/raw/gh-pages/rate_photo.jpg",
 "rate_active":"on",
 "ads_account_change_after":"1",
-"banner_network_choice":"admob", 
+"banner_network_choice":"applovin", 
 "interstisial_network_choice":"applovin", 
+"reward_network_choice":"applovin",
 "native_network_choice":"facebook"
+  
  
   
 
