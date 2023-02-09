@@ -111,9 +111,9 @@
 "change_iconandname":"non",
 "background_ads_delay":"non",
 "ads_account_change_after":"1",
-"banner_network_choice":"applovin", 
+"banner_network_choice":"admob", 
 "interstisial_network_choice":"", 
-"native_network_choice":"applovin"
+"native_network_choice":"admob"
   
  
   
