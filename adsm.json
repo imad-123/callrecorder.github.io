@@ -25,9 +25,9 @@
 "iron_banner":"DefaultBanner",
   
  
-"banner_network_choice":"ironsource", 
-"interstisial_network_choice":"ironsource", 
-"native_network_choice":"applovin"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"native_network_choice":"unity"
   
  
   
