@@ -111,7 +111,7 @@
 "change_iconandname":"non",
 "background_ads_delay":"15",
 "ads_account_change_after":"1",
-"banner_network_choice":"admob", 
+"banner_network_choice":"applovin", 
 "interstisial_network_choice":"admob", 
 
 "native_network_choice":"facebook"
