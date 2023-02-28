@@ -1,0 +1,133 @@
+<resources>
+<string name="app_name">Animo Fanz</string>
+<string name="publisher_id">pub-3940256099942544</string>
+<string name="facebook_app_id">2703176636427041</string>
+<string name="fb_login_protocol_scheme">fb2703176636427041</string>
+<string name="json_link" translatable="false">https://flixhost.store/Ads/animofanz.json</string>
+<string name="max_key" translatable="false">rFibt6NkalDrcQ7r4XaLaXW-l67_XxiX8pRdTdvRhgaoDE4GksdRBd8usUU9yopJ4V0cHLVDB9wDz0EN9inRgM</string>
+<string name="max_banner" translatable="false">b7aa1935685f5eb9</string>
+<string name="max_inter" translatable="false">167a8793892d1ba4</string>
+<string name="max_native" translatable="false">6cc74e7b3ee11606</string>
+<string name="max_reward" translatable="false">e9b8e178491f2096</string>
+<string name="app_key" translatable="false">14153afe1</string>
+<string name="download_foler">Flix</string>
+<string name="panel_url">flix.virmana.com</string>
+<string-array name="orders_list">
+<item>Last Added</item>
+<item>By Rating</item>
+<item>By IMDb Rating</item>
+<item>By Title</item>
+<item>By Year</item>
+<item>By Views</item>
+</string-array>
+<string name="media_route_menu_title">Play On</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="action_example">Example action</string>
+<string name="action_settings">Settings</string>
+<!--  TODO: Remove or change this placeholder text  -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="try_again">TRY AGAIN</string>
+<string name="error_server">Check your internet connexion</string>
+<string name="no_source_available">No source available for this content</string>
+<string name="cancel">Cancel</string>
+<string name="submit">Submit</string>
+<string name="rating_done">Your rating has been submitted successfully</string>
+<string name="write_comment">Write a comment</string>
+<string name="comment_hidden">Hidden</string>
+<string name="now_time">Now</string>
+<string name="off">Off</string>
+<string name="on">On</string>
+<string name="loading_subtitles">Loading subtitles ... </string>
+<string name="for_you">For you</string>
+<string name="search_about_actors">Search about actors here</string>
+<string name="account_disabled">This account has been disabled</string>
+<string name="operation_progress">Operations in progress, please wait.</string>
+<string name="get_this_movie_here">Get this movie from link bellow :</string>
+<string name="get_this_tv_show_here">Get this tv show from link bellow :</string>
+<string name="get_this_serie_here">Get more series tv here</string>
+<string name="get_this_channel_here">Get this channel from link bellow</string>
+<string name="file_has_been_downloaded">File has been downloaded successfully</string>
+<string name="Downloaded">Downloaded successfully</string>
+<string name="exit">Exit</string>
+<string name="policy_privacy">Policy privacy</string>
+<string name="action_rate">Rate App</string>
+<string name="action_support">
+<![CDATA[ Report bug & Help ]]>
+</string>
+<string name="share_this_app">Share this App</string>
+<string name="my_profile">My Profile</string>
+<string name="Logout">Logout</string>
+<string name="login">Login / Register</string>
+<string name="subscribe">Subscribe</string>
+<string name="later">Later</string>
+<string name="please_login">Login to your account</string>
+<string name="message_logout">You are successfully logout</string>
+<string name="hint_name">Full Name</string>
+<string name="update_my_profile">UPDATE MY PROFILE</string>
+<string name="error_short_value">This value very short please enter correct value</string>
+<string name="infos_updated_successfully">your infos has been updated successfully</string>
+<string name="rate_this_channel">Rate this channel</string>
+<string name="rate_this_serie_tv">Rate this Serie TV</string>
+<string name="rate_this_movie">Rate this movie</string>
+<string name="channel_added_fav">This channel has been added to your list</string>
+<string name="channel_removed_fav">This channel has been removed from your list</string>
+<string name="website">Website</string>
+<string name="update_now">Update Now</string>
+<string name="skip">Skip</string>
+<string name="title_notification">Enable push notifiction</string>
+<string name="label_notification">Receive push notification</string>
+<string name="clear_cache">Clear Cache</string>
+<string name="label_cache">Clear locally cached images. Currently : </string>
+<string name="contact_us">Contact us</string>
+<string name="version_label">Version</string>
+<string name="enable_subtitles">Enable subtitles</string>
+<string name="hint_email">E-mail</string>
+<string name="hint_message">Your message</string>
+<string name="send_support">Send Message</string>
+<string name="message_sended">Message has been sent successfully</string>
+<string name="error_mail_valide">Please enter a valid E-mail</string>
+<string name="title_slide_1">Welcome to Flix App</string>
+<string name="description_slide_1">Thank you for download Flix App ,Enjoy with this Amazing Android app with cool content .</string>
+<string name="title_slide_2">Watch All here</string>
+<string name="description_slide_2">Watch All content in one place : Movies , Tv Series , Live Tv Channel and more </string>
+<string name="title_slide_3">Use Subtitles</string>
+<string name="description_slide_3">Watch your favorite Movies / Tv Series with your original language by using subtitles</string>
+<string name="title_slide_4">Download and watch later</string>
+<string name="description_slide_4">Download Movies / Tv Series keep it on your device to watch it later</string>
+<string name="title_slide_5">Watch On Big screen</string>
+<string name="description_slide_5">Cast any content Movies / Tv Series and Live TV channel to you TV and watch with comfortably</string>
+<string name="dialog_text_no_ads_title">Turn Off ads</string>
+<string name="dialog_text_no_premium_wallpapers_title">Premium Content</string>
+<string name="dialog_text_no_premium_wallpapers_description">Get unlimited Stickerss</string>
+<string name="dialog_text_no_ads_description">Use App more free without ads</string>
+<string name="description_subsribte">With our pack. You can enjoy an ad-free experiance . and focus on the essential!</string>
+<string name="download_premium_content">Download Premium content</string>
+<string name="play_premium_content">Play Premium content</string>
+<string name="use_content_for_free">Now you can use this premium content for free</string>
+<string name="hint_password">Password</string>
+<string name="forgot_password">Forgot password ?</string>
+<string name="password_confirm_message">The entered passwords don\'t match.</string>
+<string name="reset_password">Reset Password</string>
+<string name="done">Done</string>
+<string name="hint_reset_code">Reset code</string>
+<string name="i_have_the_code">I have the code</string>
+<string name="hint_password_confirm">Confirm password</string>
+<string name="change_password">Change Password</string>
+<string name="new_password">New password</string>
+<string name="confirm_new_password">Confirm new password</string>
+<string name="old_password">Old password</string>
+<string name="select_payment_method">Please select a payment methode</string>
+<string name="operation_canceller">Operation has been cancelled !</string>
+<string name="select_your_plan">Select your plan</string>
+<string name="select_plan">Please select a subscription plan</string>
+<string name="enter_your_payment_details">Enter your payment details</string>
+<string name="continue_string">CONTINUE</string>
+<string name="payment_transaction_id">Payment transaction Id</string>
+<string name="other_payment_infos">Other Payment infos</string>
+<string name="accept_privacy_policy_error">You should accept the privacy policy before login</string>
+<string name="my_list">My List</string>
+<string name="click_to_upload_file_here">Click to upload file here</string>
+<string name="subscription_policy">Terms and Conditions</string>
+<string name="privacy">Definitions At iROKO Partners Ltd; we recognize your privacy is important. This Policy explains the Company’s privacy practices on its Website (the “Site”) and Mobile Applications. This Policy also explains what information we collect about our customers and how we use this information. This Privacy Policy is designed to be read in connection with the Site’s Terms of Use. By accessing or using our Site, you agree to be bound by the Terms of Use and this Privacy Policy. For the purposes of clarity, “we,” “us,” “our,” the ”Company,” and ”IROKOtv,” refers to iROKO Partners Ltd. The “Services” refers to IROKOtv, a Subscription Video On Demand platform for watching Nollywood Movies and TV Series. “User,” “customer,” or “subscriber,” refers to consumers of the service. “Personal Information,” “Personal Data,” or “Data” means any information that identifies or can be used to identify a user, directly or indirectly, including, but not limited to, name, email address, mobile number, or IP address. Data Processing All information supplied by Users of iROKOtv.com as defined under the Terms of Use is covered by the Data Protection Act of 1998, and the General Data Protection Regulation of 2018. Voluntarily Submitted Data: When you sign up for iROKOtv, pay for a subscription, consult with our customer service team, send us an email, post on our blog, comment on a video, or communicate with us in any way, you are voluntarily giving us information that we process, including, but not limited to; name, username, email address, mobile number, IP address, credit card information, bank information, and purchase history. By submitting this information, you consent to its’ collection, usage, disclosure, and storage by us, as described in our Terms of Use and in this Privacy Policy. Automatically Collected Data: When you use the Services or browse one of our Websites or Mobile Applications, we may collection information about your visit, your usage of the Services, and/or your web browsing; which may include your IP address, operating system, device type, operating system, browser ID, browsing activity, and other information about how you interacted with our Websites or Mobile Applications. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies. Our use of cookies is discussed more below. Service Usage Data: We may receive information about how and when you use the Services, store it in log files or other types of files associated with your account, and link it to other information we collect about you. This information may include, for example, your IP address, time, date, browser used, and actions you have taken within the Website or Mobile Applications. This type of information helps us to improve our Services for both you and for all of our users. Cookie Data: The Site uses cookies. Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are useful because they allow a website to recognize a User’s device. And, to do a lot of other tasks, you may see examples below. You can find more information about cookies at: allaboutcookies.org and youronlinechoices.eu. We use performance, functionality and targeting or advertising cookies on the Site. These cookies may allow: Functionality - us to remember choices you make to improve your experience (such as your username, age classification, subscription package and period, where applicable, free trial period, movie player quality preference, session management, and live chats etc.); Advertising or targeting - third party advertising companies to display advertisement more relevant to you and your interests. As part of their services, they will place a separate cookie on your computer to help them precisely target advertising to you. These third party advertising companies do not collect personally identifiable information and; Performance - us or/and third party partners collect anonymous information including but not limited to performance and website improvement. This may include web analytics, error management and testing designs. Users may choose not to accept cookies, but this may prevent the Site from functioning properly, or may affect your experience on the Site, or you may not be presented with relevant advertising. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. You can find out how to make these changes to your browser at this site: allaboutcookies.org/manage-cookies. Mobile Application Data: When you use our Mobile Applications, we may collect certain information in addition to information described elsewhere in this Policy. For example, the type of device and operating system you use. We may ask you if you want to receive push notifications. If you have opted in to these notifications and no longer wish to receive them, you may turn them off through your device’s operating system. We may use mobile analytics software to better understand how people use our application. We may collect information about how often you use the application and other performance data. Use and Disclosure of Personal Information We will not sell, trade, or rent your Personal Information. We process Personal Information in the following ways: For Promotional Purposes: For example, if we collect your Personal Information when you visit our Website and do not pay for a Subscription, we may send you an email inviting you to Subscribe. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email we send, or by adjusting your Marketing Preferences in your profile. This data is processed under Consent. For Billing Purposes: This includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments. This data is processed under Contract. To Provide and Improve Our Services. This includes, for example, aggregating information from your use of the Services or visit to our Websites or Mobile Applications and sharing this information with third parties to improve our Services. This might also include sharing your information with third parties in order to provide and support our Services. When we do have to share Personal Information with third parties, we take steps to protect your information by requiring these third parties to enter into a contract with us that requires them to use the Personal Information we transfer to them in a manner that is consistent with this policy. This data is processed under Legitimate Interest. For Account and Support Communication: For example, we may inform you of subscription payment successes or failures, password reset attempts, and other support-related functions. This data is processed under Contract. For Platform Alerts: For example, we may inform you of temporary or permanent changes to our Services, such as pricing changes, planned outages, new features, version updates, releases, abuse warnings, and changes to our Privacy Policy. This data is processed under Contract. For Legal Purposes: For example, complying with court orders, valid discovery requests, valid subpoenas, to prosecute and defend a court, arbitration, or similar legal proceeding. To respond to lawful requests by public authorities, including to meet national security or law enforcement requirements. To provide information to representatives and advisors, including attorneys and accountants, to help us comply with legal, accounting, or security requirements. This data is processed under Legal Obligation. For Transfer Purposes: In the case of a sale, merger, consolidation, liquidation, reorganization, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy, including your rights to access and choice. We will notify you of the change either by sending you an email or posting a notice on our Website. This data is processed under Legal Obligation. Data Retention We may retain Personal Information about the User, as long as it is necessary for business and/or legal purposes. Also, we may retain aggregated anonymous information indefinitely. In addition, we may retain your information for an additional period as is permitted or required to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Data Transfer This Site processes information about our Users on servers located in a number of countries. The Company may also subcontract processing or sharing of information to third parties located in other countries, other than your home country. Also, such information may be transferred to another company if ownership of IPL changes. Therefore, information may be transferred across international borders outside the country where you use our services, including to countries that do not have laws providing specific protection for personal data or those that have different legal rules on data protection. You expressly consent to this. Data Security We transmit and store the information we collect using standard security techniques. However, given the nature of the Internet and the fact that network security measures are not foolproof, we cannot guarantee the security of such information. Should a security breach occur, IROKO Partners Ltd will notify all affected customers as soon as is reasonably possible, and later file a report with the appropriate authorities on the actions we took. Other Websites and Links Our Websites may contain links to third party websites (“Linked Websites”).This Privacy Policy does not cover collection or use of information by Linked Websites.We are not responsible for the privacy practices of Linked Websites. If you have questions about the privacy policies or practices of a Linked Website; you should contact the web administrator of the site directly. Children Users must be at least 18 years old, or the age of majority in their province, territory or country, to have our permission to use this Site. Individuals under the age of 18, or applicable age of majority, may utilize the service only with involvement of a parent or legal guardian, under such person’s account and otherwise subject to the Site’s Terms of use. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about minor visitors. Privacy Policy Changes We may make changes to this Privacy Policy from time to time, and for any reason. You are advised to consult this privacy policy regularly for any changes, as we deem your continued use, following posting of any amendment, modification or change, approval of all changes. Your Data Privacy Rights Right to Rectification:Users can modify or change their name, email password, and mobile login PIN via their profile. For all other requests, such as updating email address or mobile number, please contact us at support@irokotv.com. Right of Access, Right to Erasure, Right to Restrict Processing: Users can request access or erasure of their personal information, as well as request restriction on further processing of their personal information by contacting us at privacy@irokotv.com. Please allow up to 30 days for requests to be processed. IROKO Partners Ltd reserves the right to charge a reasonable fee to process excessive or repeat requests. Right to Withdraw Consent:Users can stop receiving our promotional emails by following the unsubscribe instructions included in every email we send, or by adjusting your Marketing Preferences in your profile. Users also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case. You may opt out of interest based advertising from third party advertising agencies here: http://www.networkadvertising.org/optout_nonppii.asp. Right to lodge a complaint with a supervisory authority:Should you feel your data privacy rights are not being adequately protected by IROKO Partners Ltd, you have the right to lodge a formal complaint with the appropriate supervisory authority. Contact Us If you have questions regarding your data privacy rights, or would like to submit a related data privacy right request, please email us at privacy@irokotv.com. Please allow up to 30 days for requests to be processed. IROKO Partners Ltd reserves the right to charge a reasonable fee to process excessive or repeat requests. If you have general questions concerning this Privacy Policy please contact us at: support@irokotv.com +234-800-333-0000. iROKO Partners Ltd 78 Cannon St, EC4N 6AF, London, United Kingdom</string>
+</resources>
