@@ -27,6 +27,9 @@
  "first_activity_second_button_text":"go",
  "dialog_title":"dialog title",
  "dialog_text":"dialog text test from server",
+  
+ "second_activity_first_button_text":"first button",
+ "second_activity_second_button_text":"second button",
 
 "banner_network_choice":"applovin", 
 "interstisial_network_choice":"applovin", 
