@@ -33,6 +33,10 @@
   
  "backup_activity_title":"progress activity",
  "backup_activity_text":"this is a text from server to backup activity",
+  
+ "done_activity_title":"done activity title",
+ "done_activity_text":"this is a text from server to done activity",
+ "done_activity_butoon_text":"open",
 
 "banner_network_choice":"applovin", 
 "interstisial_network_choice":"applovin", 
