@@ -22,6 +22,11 @@
 "app_logo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
 "app_name":"my app name",
 "welcome_text":"welcome to my app",
+  
+ "first_activity_first_button_text":"help",
+ "first_activity_second_button_text":"go",
+ "dialog_title":"dialog title",
+ "dialog_text":"dialog text test from server",
 
 "banner_network_choice":"applovin", 
 "interstisial_network_choice":"applovin", 
