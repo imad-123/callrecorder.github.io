@@ -1,0 +1,35 @@
+{"ads":{
+  
+"applovin_inter":"269d73adeea133fb",
+"applovin_native":"5534d47212ed8e80",
+"applovin_banner":"d7e5387a22cc8044",
+
+  
+"unity_inter":"Interstitial_Android",
+"unity_banner":"Banner_Android",
+"unity_gameid":"5082535",
+ 
+  
+"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+    
+
+"app_redirect":"yes",
+"redirect_package_name":"com.example.test",
+"start_backg_ads":"non",
+"background_ads_delay":"15",
+
+
+"banner_network_choice":"applovin", 
+"interstisial_network_choice":"applovin", 
+"native_network_choice":"applovin"
+  
+
+},
+  "redirect_info":[
+  {"text":"text test from server","package_name":"com.test.test"},
+  {"text":"text test from server","package_name":"com.test.test"}
+   ]
+
+}
