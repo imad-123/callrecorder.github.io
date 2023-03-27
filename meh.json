@@ -1,8 +1,25 @@
-"app_logo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
-"app_name":"my app name",
-"welcome_text":"welcome to my app",
+{"ads":{
   
- "first_activity_first_button_text":"help",
- "first_activity_second_button_text":"go",
- "dialog_title":"dialog title",
- "dialog_text":"dialog text test from server",
+
+"coin_logo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
+"change_content":"yes",
+"title_text":"welcome to my app",
+  
+ "button1_text":"button 1 ser",
+ "button2_text":"button 2 ser",
+ "button3_text":"button 3 ser",
+ "button4_text":"button 4 ser",
+  
+ "button1_link":"www.google.com",
+ "button2_link":"www.google.com",
+ "button3_link":"www.google.com",
+ "button4_link":"www.google.com"
+  
+  
+ 
+  
+ 
+  
+
+
+}}
