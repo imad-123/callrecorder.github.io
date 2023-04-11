@@ -60,7 +60,7 @@
 "inmobi_banner5":"1468078426600L",
   
 "show_rate":"on",
-"show_interstitial_after":"2";
+"show_interstitial_after":"2",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "native_network_choice":"admob"
