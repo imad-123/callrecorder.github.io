@@ -79,6 +79,7 @@
 "applovin_keywords":["test","test","test"],
 
 "start_vpn":"yes",
+"interstitial_count":"2",
 "ads_account_change_after":"1",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
