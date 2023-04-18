@@ -44,7 +44,7 @@
 "yandex_banner5":"R-M-DEMO-320x100",
   
 
-"vungle_inter":"INTER-2769781",
+"vungle_inter":"HB_INTERSTITIAL-6927494",
 "vungle_banner":"HB_BANNER-3764860",
 "vungle_banner2":"HB_BANNER-3764860",
 "vungle_banner3":"HB_BANNER-3764860",
@@ -62,7 +62,7 @@
 "show_rate":"on",
 "show_interstitial_after":"2",
 "banner_network_choice":"vungle", 
-"interstisial_network_choice":"yandex", 
+"interstisial_network_choice":"vungle", 
 "native_network_choice":"yandex"
   
   
