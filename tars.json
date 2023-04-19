@@ -15,6 +15,7 @@
 "facebook_banner3":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
 "facebook_banner4":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
 "facebook_banner5":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
 
  
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -24,6 +25,7 @@
 "admob_banner3":"ca-app-pub-3940256099942544/6300978111",
 "admob_banner4":"ca-app-pub-3940256099942544/6300978111",
 "admob_banner5":"ca-app-pub-3940256099942544/6300978111",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
   
 "ironsource_inter":"DefaultInterstitial",
@@ -42,6 +44,7 @@
 "yandex_banner3":"R-M-DEMO-320x100",
 "yandex_banner4":"R-M-DEMO-320x100",
 "yandex_banner5":"R-M-DEMO-320x100",
+"yandex_reward":"demo-rewarded-yandex",
   
 "vungle_appid":"642feadb884672a106a7ba18",
 "vungle_inter":"INTER-2769781",
@@ -63,6 +66,7 @@
 "show_interstitial_after":"2",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
 "native_network_choice":"admob"
   
   
