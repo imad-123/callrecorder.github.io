@@ -23,19 +23,6 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
-  
-
-"start_vpn":"yes",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
-  
- "ovpn_file":[
-  {"country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"country":"fr2","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
-   ],
 
  "my_data":[
   {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
@@ -47,7 +34,21 @@
   {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
   {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
 
+   ],
+
+"start_vpn":"yes",
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
+  
+ "ovpn_file":[
+  {"country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
+  {"country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
+  {"country":"fr2","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
    ]
+
+
 
 },
  
