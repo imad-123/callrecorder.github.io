@@ -24,7 +24,7 @@
 "interstisial_network_choice":"non", 
 "native_network_choice":"non",
   
-"change_content":"non",
+"change_content":"yes",
   
 "fake_button_1":"first fake button",
 "fake_button_2":"second fake button",
