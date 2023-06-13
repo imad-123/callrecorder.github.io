@@ -1,38 +1,10 @@
 {"ads":{
   
-"applovin_inter":"269d73adeea133fb",
-"applovin_native":"5534d47212ed8e80",
-"applovin_banner":"d7e5387a22cc8044",
 
-  
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_gameid":"5082535",
-  
-  
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-  
-  
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-  
-
-"banner_network_choice":"non", 
-"interstisial_network_choice":"non", 
-"native_network_choice":"non",
   
 "change_content":"yes",
-  
-"fake_button_1":"first fake button",
-"fake_button_2":"second fake button",
-"fake_button_3":"third fake button",
-  
-"first_text":"first text from server",
-"second_text":"second text from server",
-"third_text":"third text from server",
+"game_url":"https://google.com",
+"splash_text":"myapp",
   
 "real_button_1":"first real button",
 "real_button_2":"second real button",
@@ -40,11 +12,6 @@
 "real_button_4":"fourth real button"
   
 
-  
-
-
-
-  
 
 },
  "my_data":[
