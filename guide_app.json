@@ -1,0 +1,105 @@
+{"ads":{
+
+       "Visibility_popup":true,
+        "Title_View_popup":"Free fire",
+        "Url_button_popup":"https://coinmarketcap.com/",
+        "Image_View_popup":"https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
+       
+       
+    
+    "ShowAds":true,
+    "ShowLoadingAds":true,
+    "ClickCount":1,
+    "update_packagename":"",
+    
+
+     "show_captcha":true,
+     "show_gender":true,
+     
+    "PriorityBanner":"admob",
+    "priorityInterstitial":"admob",
+    "PriorityNative":"admob",
+  
+    "IronAppKey":"85460dcd",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+
+    "MaxBanner":"d7e5387a22cc8044",
+    "MaxInterstitial":"269d73adeea133fb",
+    "MaxNative":"5534d47212ed8e80",
+ 
+    "FanBanner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+    "FanInterstitial":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+    "FanNative":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110"
+  
+  },
+
+   "items":[
+        
+            {
+     "Title":"Nature Image Firt Guide"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1HW5p1VwvC4lq3b7ObbAX6tNGeXzMRWW5"
+     ,"Description" :"Nature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt Guide"
+      }
+     
+    ,{
+     "Title":"FansOnly For This Tips"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1DBdrrtS3-f1oBMAfle81NihDXtXCr_Zn"
+     ,"Description" :"FansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This Tips"
+      }
+        
+       ,{
+     "Title":"Follow this Tips and be millionaire"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=10OjD6wlnzLHY7X9uC_zRJf08YFklqKZq"
+     ,"Description" :"Follow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaire"
+      }
+      
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+      
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+       
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+      
+       ,{
+     "Title":"FansOnly For This Tips"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1DBdrrtS3-f1oBMAfle81NihDXtXCr_Zn"
+     ,"Description" :"FansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This Tips"
+      }
+       
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+
+       
+      ]
+ 
+    
+    }
+
+
+ 
+
+
+  
+ 
+  
+
+
