@@ -3,10 +3,10 @@
  "ShowAds":true,
     "ShowLoadingAds":true,
     "ClickCount":1,
-    "PriorityBanner":"iron",
-    "priorityInterstitial":"iron",
-    "PriorityNative":"max",
-    "PriorityReward":"iron",
+    "PriorityBanner":"admob",
+    "priorityInterstitial":"admob",
+    "PriorityNative":"admob",
+    "PriorityReward":"admob",
     "IronAppKey":"85460dcd",
     "IronBanner":"DefaultBanner",
     "IronInterstitial":"DefaultInterstitial",
@@ -23,10 +23,12 @@
     "MaxReward":"",
     "FanBanner":"",
     "FanInterstitial":"",
-    "FanNative":""
+    "FanNative":"",
     "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-    "AdmobNative":"ca-app-pub-3940256099942544/2247696110"
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+    "admob_reward":"ca-app-pub-3940256099942544/5224354917"
+ 
   },
   "ControlApp":{
  "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
