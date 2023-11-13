@@ -16,9 +16,9 @@
   
   "Ads Explanation": " custom | applovin | admob | facebook ",
 
-  "Interstitial": "non",
-  "Banner": "non",
-  "Native": "non",
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Native": "admob",
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
