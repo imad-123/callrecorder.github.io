@@ -41,10 +41,10 @@
 
   "force_ate": false,
   
-  "show_gender_screen": false,
-  "show_capatcha_screen": false,
-  "show_text_1_screen": false,
-  "show_text_2_screen": false,
+  "show_gender_screen": true,
+  "show_capatcha_screen": true,
+  "show_text_1_screen": true,
+  "show_text_2_screen": true,
 
   "is_app_suspended": false,
   "suspended_title": "A new update for this app is available.",
