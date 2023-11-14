@@ -26,15 +26,15 @@
   "show_custom_ad": "off",
 
   "show_first_button": "on",
-  "show_second_button":"off",
-  "show_third_button": "off",
+  "show_second_button":"on",
+  "show_third_button": "on",
   "show_fourth_button":"on",
 
   
   "first_screen_text": "first screen text",
   "second_screen_text": "second screen text",
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "",
 
   "web_btn_1_text": "Open Web One",
   "web_btn_2_text": "Open Web Two",
