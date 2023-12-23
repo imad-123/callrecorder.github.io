@@ -1,22 +1,22 @@
 {
     "ADS": {
-        "banner_type_1": "admob",
-        "inter_type_1": "admob",
-        "native_type_1": "admob",
-        "reward_type_1": "admob",
+        "banner_type_1": "huawei",
+        "inter_type_1": "huawei",
+        "native_type_1": "huawei",
+        "reward_type_1": "huawei",
         "native_or_mrec_1": "native",
         "ironsource_id": "ironsource_id_value",
         "unity_id": "unity_id_value",
         
-        "banner_id_1": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial_id_1": "ca-app-pub-3940256099942544/1033173712",
-        "reward_id_1": "ca-app-pub-3940256099942544/5224354917",
+        "banner_id_1": "testw6vs28auh3",
+        "interstitial_id_1": "testb4znbuh3n2",
+        "reward_id_1": "testx9dtjwj8hp",
         "mrec_id_1": "mrec_id_1_value",
-        "native_id_1": "ca-app-pub-3940256099942544/2247696110",
+        "native_id_1": "testy63txaom86",
         "open_app_id": "demo-appopenad-yandex",
         "store_link": "demo-native-content-yandex"
 
- 
+
     },
     "guideData": [
         {
