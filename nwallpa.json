@@ -37,10 +37,10 @@
 "yandex_reward":"demo-rewarded-yandex",
 "yandex_appopen":"demo-appopenad-yandex",
   
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
 
 
 },
