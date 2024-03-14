@@ -2,38 +2,129 @@
   "categories": [
     {
       "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "preview": "https://example.com/category1_preview.jpg",
       "wallpapers": [
         {
           "id": 0,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://example.com/category1_wallpaper1.jpg"
         },
         {
           "id": 1,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://example.com/category1_wallpaper2.jpg"
         }
       ]
     },
     {
       "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "preview": "https://example.com/category2_preview.jpg",
       "wallpapers": [
         {
           "id": 0,
           "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://example.com/category2_wallpaper1.jpg"
         },
         {
           "id": 1,
           "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://example.com/category2_wallpaper2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "category_name_3",
+      "preview": "https://example.com/category3_preview.jpg",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper1.jpg"
+        },
+        {
+          "id": 1,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "category_name_4",
+      "preview": "https://example.com/category4_preview.jpg",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper1.jpg"
+        },
+        {
+          "id": 1,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "category_name_5",
+      "preview": "https://example.com/category5_preview.jpg",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper1.jpg"
+        },
+        {
+          "id": 1,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "category_name_6",
+      "preview": "https://example.com/category6_preview.jpg",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper1.jpg"
+        },
+        {
+          "id": 1,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "category_name_7",
+      "preview": "https://example.com/category7_preview.jpg",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper1.jpg"
+        },
+        {
+          "id": 1,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "category_name_8",
+      "preview": "https://example.com/category8_preview.jpg",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper1.jpg"
+        },
+        {
+          "id": 1,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper2.jpg"
         }
       ]
     }
