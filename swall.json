@@ -2,38 +2,38 @@
   "categories": [
     {
       "name": "category_name_1",
-      "preview": "file:///android_asset/data/category_name_1/image_1.jpg",
+      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
       "wallpapers": [
         {
           "id": 0,
           "category": "category_name_1",
-          "path": "file:///android_asset/data/category_name_1/image_1.jpg"
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 1,
           "category": "category_name_1",
-          "path": "file:///android_asset/data/category_name_1/image_2.jpg"
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 2,
           "category": "category_name_1",
-          "path": "file:///android_asset/data/category_name_1/image_3.jpg"
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         }
       ]
     },
     {
       "name": "category_name_2",
-      "preview": "file:///android_asset/data/category_name_2/image_1.jpg",
+      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
       "wallpapers": [
         {
           "id": 0,
           "category": "category_name_2",
-          "path": "file:///android_asset/data/category_name_2/image_1.jpg"
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 1,
           "category": "category_name_2",
-          "path": "file:///android_asset/data/category_name_2/image_2.jpg"
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         }
       ]
     }
