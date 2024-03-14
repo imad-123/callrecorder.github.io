@@ -13,6 +13,36 @@
           "id": 1,
           "category": "category_name_1",
           "path": "https://example.com/category1_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_1",
+          "path": "https://example.com/category1_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_1",
+          "path": "https://example.com/category1_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_1",
+          "path": "https://example.com/category1_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_1",
+          "path": "https://example.com/category1_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_1",
+          "path": "https://example.com/category1_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_1",
+          "path": "https://example.com/category1_wallpaper8.jpg"
         }
       ]
     },
@@ -29,6 +59,36 @@
           "id": 1,
           "category": "category_name_2",
           "path": "https://example.com/category2_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_2",
+          "path": "https://example.com/category2_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_2",
+          "path": "https://example.com/category2_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_2",
+          "path": "https://example.com/category2_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_2",
+          "path": "https://example.com/category2_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_2",
+          "path": "https://example.com/category2_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_2",
+          "path": "https://example.com/category2_wallpaper8.jpg"
         }
       ]
     },
@@ -45,6 +105,36 @@
           "id": 1,
           "category": "category_name_3",
           "path": "https://example.com/category3_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_3",
+          "path": "https://example.com/category3_wallpaper8.jpg"
         }
       ]
     },
@@ -61,6 +151,36 @@
           "id": 1,
           "category": "category_name_4",
           "path": "https://example.com/category4_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_4",
+          "path": "https://example.com/category4_wallpaper8.jpg"
         }
       ]
     },
@@ -77,6 +197,36 @@
           "id": 1,
           "category": "category_name_5",
           "path": "https://example.com/category5_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_5",
+          "path": "https://example.com/category5_wallpaper8.jpg"
         }
       ]
     },
@@ -93,6 +243,36 @@
           "id": 1,
           "category": "category_name_6",
           "path": "https://example.com/category6_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_6",
+          "path": "https://example.com/category6_wallpaper8.jpg"
         }
       ]
     },
@@ -109,6 +289,36 @@
           "id": 1,
           "category": "category_name_7",
           "path": "https://example.com/category7_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_7",
+          "path": "https://example.com/category7_wallpaper8.jpg"
         }
       ]
     },
@@ -125,6 +335,36 @@
           "id": 1,
           "category": "category_name_8",
           "path": "https://example.com/category8_wallpaper2.jpg"
+        },
+        {
+          "id": 2,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper3.jpg"
+        },
+        {
+          "id": 3,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper4.jpg"
+        },
+        {
+          "id": 4,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper5.jpg"
+        },
+        {
+          "id": 5,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper6.jpg"
+        },
+        {
+          "id": 6,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper7.jpg"
+        },
+        {
+          "id": 7,
+          "category": "category_name_8",
+          "path": "https://example.com/category8_wallpaper8.jpg"
         }
       ]
     }
