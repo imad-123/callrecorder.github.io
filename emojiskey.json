@@ -1,0 +1,40 @@
+{
+	"ADS": {
+
+
+                "moreapp" :"truej",
+	        "storeurl":"https://play.google.com/store/apps/details?id=com.touchtype.swiftkey",
+
+		"rewarde_type": "",
+		"native_type": "",
+		"inter_type": "",
+		"banner_type": "",
+		
+	    "unity_id": "0",
+		
+	   	"unity_banner_id": "Banner_Android",
+	   	"unity_inter_id": "Interstitial_Android",
+       
+
+	 
+
+		"banner_applovin": "9ae4016b5706660c",
+		"native_applovin": "977657c47086646b",
+		"interstitial_applovin": "3799456c698cc882",
+		"rewarde_applovin": "00b8b6bccc86a89",
+
+		"interstitial_admob": "",
+		"banner_admob": "",
+		"native_admob": "",
+		"rewarde_admob": "",
+
+		 
+		
+		"facebook_interstitial": "",
+		"facebook_native": "xx",
+		"facebook_banner": "xx",
+		"facebook_rewarde": "xx"
+
+		 
+	}  
+   }
