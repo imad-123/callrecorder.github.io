@@ -7,7 +7,7 @@
 
 		 "rewarde_type": "x",
 		"native_type": "applovin",
-		"inter_type": "applovin",
+		"inter_type": "admob",
 		"banner_type": "applovin",
 		
 
@@ -22,7 +22,7 @@
 		"interstitial_applovin": "2dc9831f07d29064",
 		"rewarde_applovin": "m",
 
-		"interstitial_admob": "m",
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
 		"banner_admob": "m",
 		"native_admob": "m",
 		"rewarde_admob": "m",
