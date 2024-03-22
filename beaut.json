@@ -1,0 +1,39 @@
+{
+	"ADS": {
+	    
+    "newAppStatus": "off",
+  
+  "new_package_name": "com.miniclip.plagueinc",
+
+		 "rewarde_type": "x",
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
+		
+
+        
+        
+		"unity_id": "42",
+
+		"ironsource_id": "65",
+
+		"banner_applovin": "aff612ebfe371430",
+		"native_applovin": "d4d5e83dec0ca023",
+		"interstitial_applovin": "2dc9831f07d29064",
+		"rewarde_applovin": "m",
+
+		"interstitial_admob": "m",
+		"banner_admob": "m",
+		"native_admob": "m",
+		"rewarde_admob": "m",
+
+		 
+		
+		"facebook_interstitial": "m",
+		"facebook_native": "",
+		"facebook_banner": "",
+		"facebook_rewarde": "m"
+
+		 
+	}  
+   }
