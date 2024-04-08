@@ -1,37 +1,36 @@
 {"data":
  
  "my_data":[
-  {"title":"title1 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+  {"title":"title 1",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 2",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 3",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 4",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 5",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 6",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 7",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+
+  {"title":"title 8",
+  "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
   
