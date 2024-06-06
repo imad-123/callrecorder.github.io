@@ -121,7 +121,8 @@
 },
   "ovpn_file":[
   {"id":"1","country":"fr","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-  {"id":"2","country":"fr1","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"},
-    {"id":"3","country":"fr2","file":"client dev tun proto udp ... d4ec4105a39c814bd980c9c0e0b8efb4 -----END OpenVPN Static key V1----- </tls-auth>","username":"","password":""}
+    
+  {"id":"2","country":"it","file":"https://raw.githubusercontent.com/imad-123/callrecorder.github.io/gh-pages/it.ovpn","username":"gGsTnPQCwNqJ5b5z","password":"a7uPTJJbVTyUWb16xw96N7jzE3K0S9uG"}
+    
    ]
 }
