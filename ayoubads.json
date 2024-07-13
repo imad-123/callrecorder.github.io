@@ -33,9 +33,9 @@
     "unity_gameid": "5082535",
 
     
-    "priorityInterstitial": "admob"
+    "priorityInterstitial": "admob",
     "PriorityBanner": "admob",
-    "PriorityNative": "admob",
+    "PriorityNative": "admob"
     
    
     
