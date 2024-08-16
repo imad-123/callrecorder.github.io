@@ -1,0 +1,28 @@
+{
+  "ads": {
+   
+
+     "ShowAds": true,
+     "ClickCount": 1,
+     "ShowLoadingAds": true,
+
+   
+    "IronAppKey": "147d445d9",
+    "IronBanner": "DefaultBanner",
+    "IronInterstitial": "DefaultInterstitial",
+
+
+
+    
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob"
+    
+   
+    
+   
+    
+    
+    
+  }
+}
