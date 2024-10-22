@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "categoryName": "Fix Bug",
+      "stickerPack": [
+        {
+          "identifier": "72 mb",
+          "isWhitelisted": "",
+          "name": "Original Background (UPDATED)",
+          "licenseAgreementWebsite": "https://www.mediafire.com/file/q4y8g6slf0co3tg/Background.zip/file",
+          "privacyPolicyWebsite": "Background.zip",
+          "publisher": "https://skintools.oneaimdeveloper.com/upload/thumbnail227.png",
+          "publisherWebsite": "https://store11.gofile.io/download/direct/ea569a4a-1e4a-4566-aa04-6d4ace815cf9/Background.zip",
+          "youtube": "https://www.youtube.com/watch?v=zib_WfGGXCc",
+          "hapusfile": "",
+          "trayImageUri": "2023-03-10 09:39:45"
+        },
+        {
+          "identifier": "3 mb",
+          "isWhitelisted": "",
+          "name": "Icon Skill Hero",
+          "licenseAgreementWebsite": "https://www.mediafire.com/file/0b8bmxsd9nfy9np/skill+icon.zip/file",
+          "privacyPolicyWebsite": "skill icon.zip",
+          "publisher": "https://skintools.oneaimdeveloper.com/Gambar/thumbnail815.png",
+          "publisherWebsite": "https://store11.gofile.io/download/direct/5a559902-cbe2-4b95-a29a-1ed3aceade9c/skill%20icon.zip",
+          "youtube": "https://www.youtube.com/watch?v=zib_WfGGXCc",
+          "hapusfile": "tidak",
+          "trayImageUri": "2023-03-10 09:40:16"
+        },
+        {
+          "identifier": "3 mb",
+          "isWhitelisted": "",
+          "name": "Fix Bug Head Icon (update)",
+          "licenseAgreementWebsite": "https://www.mediafire.com/file/ntlk8f7bbmr4f0p/head+icon.zip/file",
+          "privacyPolicyWebsite": "head icon.zip",
+          "publisher": "https://skintools.oneaimdeveloper.com/Gambar/thumbnail856.png",
+          "publisherWebsite": "https://store11.gofile.io/download/direct/af82ab13-4dc8-4d5b-9a74-cd51a8200bc9/head%20icon.zip",
+          "youtube": "https://www.youtube.com/watch?v=zib_WfGGXCc",
+          "hapusfile": "tidak",
+          "trayImageUri": "2023-03-10 09:42:42"
+        },
+        {
+          "identifier": "27 mb",
+          "isWhitelisted": "",
+          "name": "Fix Bug Pink & UI Whites",
+          "licenseAgreementWebsite": "https://www.mediafire.com/file/gjrrvtpcwor4twt/pink.zip/file",
+          "privacyPolicyWebsite": "pink.zip",
+          "publisher": "https://skintools.oneaimdeveloper.com/Gambar/thumbnail792.png",
+          "publisherWebsite": "https://store11.gofile.io/download/direct/4c652c84-391d-4325-bdce-e1e87d26ca76/pink.zip",
+          "youtube": "https://www.youtube.com/watch?v=zib_WfGGXCc",
+          "hapusfile": "tidak",
+          "trayImageUri": "2023-03-10 09:40:58"
+        },
+        {
+          "identifier": "1 mb",
+          "isWhitelisted": "",
+          "name": "Original Logo (FIX BUG LOGO)(update).zip",
+          "licenseAgreementWebsite": "https://www.mediafire.com/file/40sf895jf3atot6/Logo.zip/file",
+          "privacyPolicyWebsite": "Logo.zip",
+          "publisher": "https://skintools.oneaimdeveloper.com/Gambar/original%20logo.png",
+          "publisherWebsite": "https://store11.gofile.io/download/direct/e7f906c8-be45-4056-94d9-425130c256ef/Logo.zip",
+          "youtube": "https://www.youtube.com/watch?v=zib_WfGGXCc",
+          "hapusfile": "tidak",
+          "trayImageUri": "2023-03-10 09:42:14"
+        },
+        {
+          "identifier": "1 mb",
+          "isWhitelisted": "",
+          "name": "Fix Bug Minion White",
+          "licenseAgreementWebsite": "https://www.mediafire.com/file/e4gjh24uyfqpcxe/Map+Putih.zip/file",
+          "privacyPolicyWebsite": "Map Putih.zip",
+          "publisher": "https://skintools.oneaimdeveloper.com/Gambar/thumbnail1022.webp",
+          "publisherWebsite": "https://store11.gofile.io/download/direct/9abfd2cd-91cc-4373-bb15-66fc99ade11c/Map%20Putih.zip",
+          "youtube": "https://www.youtube.com/watch?v=zib_WfGGXCc",
+          "hapusfile": "tidak",
+          "trayImageUri": "2023-03-10 09:41:43"
+        }
+      ]
+    }
+  ],
+  "status": "200",
+  "message": "success",
+  "result": "true"
+}
