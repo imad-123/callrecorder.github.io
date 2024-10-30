@@ -23,10 +23,10 @@
  
 
     
-    "priorityInterstitial": "admob",
-    "PriorityBanner": "admob",
-    "PriorityNative": "admob",
-    "PriorityReward":"admob"
+    "priorityInterstitial": "facebook",
+    "PriorityBanner": "facebook",
+    "PriorityNative": "facebook",
+    "PriorityReward":"facebook"
     
    
     
