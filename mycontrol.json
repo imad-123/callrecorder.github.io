@@ -23,10 +23,10 @@
  
 
     
-    "priorityInterstitial": "facebook",
-    "PriorityBanner": "facebook",
-    "PriorityNative": "facebook",
-    "PriorityReward":"facebook"
+    "priorityInterstitial": "fan",
+    "PriorityBanner": "fan",
+    "PriorityNative": "fan",
+    "PriorityReward":"fan"
     
    
     
