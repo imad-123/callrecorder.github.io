@@ -14,10 +14,10 @@
 
 
     "BannerNetwork"          : "hws",
-    "InterstitialNetwork"    : "admob",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork"          : "applovin",
-    "NativeNetwork"          : "yandex",
+    "InterstitialNetwork"    : "hws",
+    "InterstitialNetworkHome": "hws",
+    "RewardNetwork"          : "hws",
+    "NativeNetwork"          : "hws",
     
     "AdInterval"          : 1,
     "NativeAdRow"         : 3,
