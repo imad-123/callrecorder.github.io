@@ -1,0 +1,152 @@
+{
+ 
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
+  },
+  
+  
+  
+  
+   "AdsController": {
+
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
+
+
+    "BannerNetwork"          : "hws",
+    "InterstitialNetwork"    : "admob",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork"          : "applovin",
+    "NativeNetwork"          : "yandex",
+    
+    "AdInterval"          : 1,
+    "NativeAdRow"         : 3,
+
+    "AdPlacement": {
+
+      "AdMobBanner"           : "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial"     : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome" : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward"           : "ca-app-pub-3940256099942544/5224354917",
+      "AdMobNative"           : "ca-app-pub-3940256099942544/2247696110",
+      
+      
+      "ApplovinKey"             : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner"          : "da17eff31ae69f15",
+      "ApplovinInterstitial"    : "98f6a586ed642919",
+      "ApplovinInterstitialHome": "98f6a586ed642919",
+      "ApplovinReward"          : "98f6a586ed642919",
+      "ApplovinNative"          : "98f6a586ed642919",
+
+      "HuaweiAppId"           : "",
+      "HuaweiBanner"          : "testw6vs28auh3",
+      "HuaweiInterstitial"    : "testb4znbuh3n2",
+      "HuaweiInterstitialHome": "testb4znbuh3n2",
+      "HuaweiReward"          : "testx9dtjwj8hp",
+      "HuaweiNative"          : "testy63txaom86",
+      
+      "YandexBanner"          : "demo-banner-yandex",
+      "YandexInterstitial"    : "demo-interstitial-yandex",
+      "YandexInterstitialHome": "demo-interstitial-yandex",
+      "YandexReward"          : "demo-rewarded-yandex",
+      "YandexNative"          : "demo-native-app-yandex"
+
+    }
+
+  },
+  
+
+    "VpnController": {
+
+    "VpnUserName": "ncpnazih1984@namecheap",
+    "VpnPassword": "PbzlcEnJrT",
+    "VpnList": [
+      {
+        "vpnName"  : "Emirates",
+        "vpnLocked": false,
+        "vpnIso"   : "ae",
+        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
+      },
+
+      {
+        "vpnName"  : "Australia-Sydney",
+        "vpnLocked": false,
+        "vpnIso"   : "au",
+        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AU-Sydney-TCP.ovpn"
+      },
+
+      {
+        "vpnName": "Australia-Adelaide",
+        "vpnLocked": false,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Adelaide-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia-Brisbane",
+        "vpnLocked": false,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Brisbane-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia-Melbourne",
+        "vpnLocked": true,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Melbourne-TCP.ovpn"
+      },
+      {
+        "vpnName": "Australia-Perth",
+        "vpnLocked": true,
+        "vpnIso": "au",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Perth-TCP.ovpn"
+      },
+      {
+        "vpnName": "Canada-Montreal",
+        "vpnLocked": true,
+        "vpnIso": "ca",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Montreal-TCP.ovpn"
+      },
+      {
+        "vpnName": "Canada-Toronto",
+        "vpnLocked": true,
+        "vpnIso": "ca",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Toronto-TCP.ovpn"
+      },
+      {
+        "vpnName": "Deutschland",
+        "vpnLocked": true,
+        "vpnIso": "de",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
+      },
+      {
+        "vpnName": "Saudi Arabia",
+        "vpnLocked": true,
+        "vpnIso": "sa",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-SA-Jeddah%20-%20Virtual-TCP.ovpn"
+      },
+      {
+        "vpnName": "United Kingdom",
+        "vpnLocked": true,
+        "vpnIso": "gb",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
+      },
+      {
+        "vpnName": "united-states",
+        "vpnLocked": true,
+        "vpnIso": "us",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
+      },
+      {
+        "vpnName": "united-states-Atlanta",
+        "vpnLocked": true,
+        "vpnIso": "us",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Atlanta-TCP.ovpn"
+      },
+      {
+        "vpnName": "united-states-Boston",
+        "vpnLocked": true,
+        "vpnIso": "us",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Boston-TCP.ovpn"
+      }
+    ]
+  }
+}
