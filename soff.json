@@ -24,11 +24,12 @@
   "MaxBanner": "d7e5387a22cc8044",
   "MaxNative": "5534d47212ed8e80",
   "MaxInterstitial": "269d73adeea133fb",
+  "Maxopen":"ad06542cb66ace98",
   
   "PriorityBanner":"max",
   "PriorityNative":"max",
   "PriorityReward":"admob",
-  "PriorityOpen":"admob",
+  "PriorityOpen":"max",
   "priorityInterstitial":"max",
  
   "IronInterstitial":"DefaultInterstitial",
