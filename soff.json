@@ -29,10 +29,10 @@
   "PriorityNative":"max",
   "PriorityReward":"admob",
   "PriorityOpen":"admob",
-  "priorityInterstitial":"max"
+  "priorityInterstitial":"max",
  
   "IronInterstitial":"DefaultInterstitial",
-  "ironsource_reward":"DefaultReward",
+  "ironsource_reward":"DefaultReward"
   
 }
 
