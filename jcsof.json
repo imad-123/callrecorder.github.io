@@ -20,7 +20,7 @@
   
   "PriorityBanner":"max",
   "PriorityNative":"yandex",
-  "PriorityReward":"admob",
+  "PriorityReward":"max",
   "PriorityOpen":"max",
   "priorityInterstitial":"max"
  
