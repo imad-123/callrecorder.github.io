@@ -6,15 +6,15 @@
   
 
   "huawei_inter": "testb4znbuh3n2",
-  "huawei_banner": "testw6vs28auh3"
+  "huawei_banner": "testw6vs28auh3",
 
   "MaxBanner": "7c217530b37da6db",
   "MaxInterstitial": "c9feceddbf0d8ec2",
-  "Maxopen":"9f9e60545e946f33",
   
   "PriorityBanner":"max",
-  "PriorityOpen":"max",
-  "priorityInterstitial":"max"
+  "priorityInterstitial":"max",
+
+  "link" :"https://www.google.co.uk"
  
 
   
