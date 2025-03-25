@@ -31,7 +31,7 @@
     "InterstitialNetwork"    : "yandex",
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork"          : "yandex",
-    "NativeNetwork"          : "yandex",
+    "NativeNetwork"          : "admob",
     
     "AdInterval"          : 2,
     "NativeAdRow"         : 2,
