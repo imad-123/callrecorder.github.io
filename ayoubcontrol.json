@@ -4,6 +4,21 @@
     "status": false,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
+
+  "customNativeAdList": [
+    {
+      "name": "Clash Royale",
+      "url_or_package": "com.supercell.clashroyale",
+      "button_text": "Download",
+      "image": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310"
+    },
+    {
+      "name": "Snapchat",
+      "url_or_package": "com.snapchat.android",
+      "button_text": "Install!",
+      "image": "https://play-lh.googleusercontent.com/IuPVg4_aIUEYcKGSU0qr05QvWprOXaOEu_W2SGsEWEBC7jCQQ-OBOgWBqB3rR6xmDnU=w720-h310"
+    }
+  ],
   
   
   
