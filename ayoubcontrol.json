@@ -31,7 +31,7 @@
     "InterstitialNetwork"    : "admob",
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork"          : "applovin",
-    "NativeNetwork"          : "cpa",
+    "NativeNetwork"          : "admob",
     
     "AdInterval"          : 1,
     "NativeAdRow"         : 3,
