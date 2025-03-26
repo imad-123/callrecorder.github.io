@@ -6,7 +6,7 @@
   },
 
 
-  "showCustomInter": false,
+  "showCustomInter": true,
 
   
    "allowedCountries": ["France", "Russia","morocco"],
