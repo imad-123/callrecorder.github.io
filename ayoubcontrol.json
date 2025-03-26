@@ -8,6 +8,10 @@
 
   "showCustomInter": false,
 
+  
+   "allowedCountries": ["France", "Canada"],
+
+
   "customNativeAdList": [
     {
       "name": "Clash Royale",
