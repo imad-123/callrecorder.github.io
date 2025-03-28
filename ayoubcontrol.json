@@ -15,7 +15,7 @@
   "customNativeAdList": [
     {
       "name": "Clash Royale",
-      "url": "com.supercell.clashroyale",
+      "url": "https://www.google.com",
       "button_text": "Download",
       "image": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310"
     }
@@ -24,7 +24,7 @@
   "customInterAdList": [
     {
       "name": "Clash Royale",
-      "url": "com.supercell.clashroyale",
+      "url": "https://www.google.com",
       "button_text": "Download",
       "image": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310"
     }
