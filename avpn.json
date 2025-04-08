@@ -12,7 +12,7 @@
         {
             "name": "Deutschland",
             "flag_icon": "de",
-            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
         },
         {
             "name": "Saudi Arabia",
