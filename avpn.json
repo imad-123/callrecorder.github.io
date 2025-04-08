@@ -22,7 +22,7 @@
         {
             "name": "united-states",
             "flag_icon": "us",
-            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
         },
         {
             "name": "United Kingdom",
