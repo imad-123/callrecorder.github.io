@@ -27,7 +27,7 @@
         {
             "name": "United Kingdom",
             "flag_icon": "gb",
-            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
         }
     ]
 }
