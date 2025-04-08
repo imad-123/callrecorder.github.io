@@ -7,7 +7,7 @@
         {
             "name": "Emirates",
             "flag_icon": "ae",
-            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
         },
         {
             "name": "Deutschland",
