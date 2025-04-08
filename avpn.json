@@ -1,0 +1,33 @@
+{
+    "credentials": {
+        "username": "7yJXLkNRHvH4DO2B",
+        "password": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF"
+    },
+    "servers": [
+        {
+            "name": "Emirates",
+            "flag_icon": "ae",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
+        },
+        {
+            "name": "Deutschland",
+            "flag_icon": "de",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
+        },
+        {
+            "name": "Saudi Arabia",
+            "flag_icon": "sa",
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+        },
+        {
+            "name": "united-states",
+            "flag_icon": "us",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
+        },
+        {
+            "name": "United Kingdom",
+            "flag_icon": "gb",
+            "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
+        }
+    ]
+}
