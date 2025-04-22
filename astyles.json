@@ -1,0 +1,79 @@
+{
+  "styles": [
+    {
+      "name": "Anime",
+      "imageUrl": "https://example.com/images/anime.jpg",
+      "promptText": "anime style, vibrant colors, detailed character art"
+    },
+    {
+      "name": "Futuristic",
+      "imageUrl": "https://example.com/images/futuristic.jpg",
+      "promptText": "futuristic style, neon lights, cyberpunk aesthetic"
+    },
+    {
+      "name": "Watercolor",
+      "imageUrl": "https://example.com/images/watercolor.jpg",
+      "promptText": "watercolor painting, soft edges, artistic brushstrokes"
+    },
+    {
+      "name": "3D Render",
+      "imageUrl": "https://example.com/images/3d.jpg",
+      "promptText": "3D rendered, highly detailed, photorealistic lighting"
+    },
+    {
+      "name": "Pixel Art",
+      "imageUrl": "https://example.com/images/pixel.jpg",
+      "promptText": "pixel art style, 8-bit gaming, retro"
+    },
+    {
+      "name": "Oil Painting",
+      "imageUrl": "https://example.com/images/oil.jpg",
+      "promptText": "oil painting, textured canvas, classical art style"
+    },
+    {
+      "name": "Pencil Sketch",
+      "imageUrl": "https://example.com/images/sketch.jpg",
+      "promptText": "pencil sketch, detailed linework, hand-drawn"
+    },
+    {
+      "name": "Vaporwave",
+      "imageUrl": "https://example.com/images/vaporwave.jpg",
+      "promptText": "vaporwave aesthetic, pastel colors, retro digital art"
+    },
+    {
+      "name": "Gothic",
+      "imageUrl": "https://example.com/images/gothic.jpg",
+      "promptText": "gothic style, dark atmosphere, ornate details"
+    },
+    {
+      "name": "Abstract",
+      "imageUrl": "https://example.com/images/abstract.jpg",
+      "promptText": "abstract art, geometric shapes, bold colors"
+    },
+    {
+      "name": "Minimalist",
+      "imageUrl": "https://example.com/images/minimalist.jpg",
+      "promptText": "minimalist style, simple lines, limited color palette"
+    },
+    {
+      "name": "Isometric",
+      "imageUrl": "https://example.com/images/isometric.jpg",
+      "promptText": "isometric perspective, geometric design, clean lines"
+    },
+    {
+      "name": "Pop Art",
+      "imageUrl": "https://example.com/images/popart.jpg",
+      "promptText": "pop art style, bold colors, comic book inspired"
+    },
+    {
+      "name": "Sci-Fi",
+      "imageUrl": "https://example.com/images/scifi.jpg",
+      "promptText": "science fiction, space themes, futuristic technology"
+    },
+    {
+      "name": "Fantasy",
+      "imageUrl": "https://example.com/images/fantasy.jpg",
+      "promptText": "fantasy art, magical elements, mystical creatures"
+    }
+  ]
+}
