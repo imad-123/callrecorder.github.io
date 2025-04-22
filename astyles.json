@@ -2,77 +2,77 @@
   "styles": [
     {
       "name": "Anime",
-      "imageUrl": "https://example.com/images/anime.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
       "promptText": "anime style, vibrant colors, detailed character art"
     },
     {
       "name": "Futuristic",
-      "imageUrl": "https://example.com/images/futuristic.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
       "promptText": "futuristic style, neon lights, cyberpunk aesthetic"
     },
     {
       "name": "Watercolor",
-      "imageUrl": "https://example.com/images/watercolor.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
       "promptText": "watercolor painting, soft edges, artistic brushstrokes"
     },
     {
       "name": "3D Render",
-      "imageUrl": "https://example.com/images/3d.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
       "promptText": "3D rendered, highly detailed, photorealistic lighting"
     },
     {
       "name": "Pixel Art",
-      "imageUrl": "https://example.com/images/pixel.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
       "promptText": "pixel art style, 8-bit gaming, retro"
     },
     {
       "name": "Oil Painting",
-      "imageUrl": "https://example.com/images/oil.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
       "promptText": "oil painting, textured canvas, classical art style"
     },
     {
       "name": "Pencil Sketch",
-      "imageUrl": "https://example.com/images/sketch.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
       "promptText": "pencil sketch, detailed linework, hand-drawn"
     },
     {
       "name": "Vaporwave",
-      "imageUrl": "https://example.com/images/vaporwave.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
       "promptText": "vaporwave aesthetic, pastel colors, retro digital art"
     },
     {
       "name": "Gothic",
-      "imageUrl": "https://example.com/images/gothic.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
       "promptText": "gothic style, dark atmosphere, ornate details"
     },
     {
       "name": "Abstract",
-      "imageUrl": "https://example.com/images/abstract.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
       "promptText": "abstract art, geometric shapes, bold colors"
     },
     {
       "name": "Minimalist",
-      "imageUrl": "https://example.com/images/minimalist.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
       "promptText": "minimalist style, simple lines, limited color palette"
     },
     {
       "name": "Isometric",
-      "imageUrl": "https://example.com/images/isometric.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
       "promptText": "isometric perspective, geometric design, clean lines"
     },
     {
       "name": "Pop Art",
-      "imageUrl": "https://example.com/images/popart.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
       "promptText": "pop art style, bold colors, comic book inspired"
     },
     {
       "name": "Sci-Fi",
-      "imageUrl": "https://example.com/images/scifi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
       "promptText": "science fiction, space themes, futuristic technology"
     },
     {
       "name": "Fantasy",
-      "imageUrl": "https://example.com/images/fantasy.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
       "promptText": "fantasy art, magical elements, mystical creatures"
     }
   ]
