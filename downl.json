@@ -3,13 +3,13 @@
   "ShowAds":true,
   "ClickCount":1,
    "ShowLoadingAds":true,
-  "Redirect_link":"https://www.google.com",
+  
 
 
   
 
   
-  "openadyandex":"demo-appopenad-yandex",
+
   "yandex_inter":"demo-interstitial-yandex",
   "yandex_banner":"demo-banner-yandex",
   "yandex_native":"demo-native-app-yandex",
@@ -18,11 +18,10 @@
   "MaxBanner": "494d0a9a4083d06a",
   "MaxNative": " 86f63eea00e0c99b",
   "MaxInterstitial": "93f8625cce264a14",
-  "Maxopen":"9f9e60545e946f33",
+
   
   "PriorityBanner":"max",
   "PriorityNative":"max",
-  "PriorityOpen":"yandex",
   "priorityInterstitial":"max"
  
 
