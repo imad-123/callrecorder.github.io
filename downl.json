@@ -15,15 +15,15 @@
   "yandex_native":"demo-native-app-yandex",
   
   
-  "MaxBanner": "7c217530b37da6db",
-  "MaxNative": "c6feb0531b2bb192",
-  "MaxInterstitial": "c9feceddbf0d8ec2",
+  "MaxBanner": "494d0a9a4083d06a",
+  "MaxNative": " 86f63eea00e0c99b",
+  "MaxInterstitial": "93f8625cce264a14",
   "Maxopen":"9f9e60545e946f33",
   
-  "PriorityBanner":"yandex",
-  "PriorityNative":"yandex",
+  "PriorityBanner":"max",
+  "PriorityNative":"max",
   "PriorityOpen":"yandex",
-  "priorityInterstitial":"yandex"
+  "priorityInterstitial":"max"
  
 
   
