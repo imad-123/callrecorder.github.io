@@ -17,7 +17,7 @@
     "MintegralAppKey": "7c22942b749fe6a6e361b675e96b3ee9",
     "HuaweiInterstitial": "testb4znbuh3n2",
     "YandexInterstitial": "demo-interstitial-yandex",
-    "priorityInterstitial": "min",
+    "priorityInterstitial": "custom",
     "MintegralRewardUnitID": "290651",
     "MintegralRewardPlacementID": "462372",
     "MintegralInterstitialUnitID": "290653",
