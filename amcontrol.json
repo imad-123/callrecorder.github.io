@@ -22,6 +22,14 @@
     "MintegralRewardPlacementID": "462372",
     "MintegralInterstitialUnitID": "290653",
     "MintegralInterstitialPlacementID": "462374"
+    "CustomAd": {
+      "imageUrl": "https://example.com/path/to/your/image.jpg",
+      "videoUrl": "https://example.com/path/to/your/video.mp4",
+      "title": "Your Custom Ad Title",
+      "description": "This is a detailed description of your custom advertisement that will appear in the interstitial.",
+      "buttonText": "Install Now",
+      "actionUrl": "https://play.google.com/store/apps/details?id=your.app.package"
+    }
   },
   "ControlApp": {
     "IPTVLink": "",
