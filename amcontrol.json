@@ -1,67 +1,41 @@
 {
   "Ads": {
     "ShowAds": true,
-    "ShowLoadingAds": true,
-    "ClickCount": 1,
     "PlayerAds": "reward",
-
-    "Priority": {
-      "Banner": "yan",
-      "Native": "yan",
-      "Reward": "min",
-      "Interstitial": "min"
-    },
-
-    "Huawei": {
-      "Banner": "testw6vs28auh3",
-      "Native": "testy63txaom86",
-      "Reward": "testx9dtjwj8hp",
-      "Interstitial": "testb4znbuh3n2"
-    },
-
-    "Yandex": {
-      "Banner": "demo-banner-yandex",
-      "Native": "demo-native-video-yandex",
-      "Reward": "demo-rewarded-yandex",
-      "Interstitial": "demo-interstitial-yandex"
-    },
-
-    "Mintegral": {
-      "AppID": "144002",
-      "AppKey": "7c22942b749fe6a6e361b675e96b3ee9",
-      "Reward": {
-        "UnitID": "290651",
-        "PlacementID": "462372"
-      },
-      "Interstitial": {
-        "UnitID": "290653",
-        "PlacementID": "462374"
-      }
-    }
+    "ClickCount": 1,
+    "HuaweiBanner": "testw6vs28auh3",
+    "HuaweiNative": "testy63txaom86",
+    "HuaweiReward": "testx9dtjwj8hp",
+    "YandexBanner": "demo-banner-yandex",
+    "YandexNative": "demo-native-video-yandex",
+    "YandexReward": "demo-rewarded-yandex",
+    "MintegralAppID": "144002",
+    "PriorityBanner": "yan",
+    "PriorityNative": "yan",
+    "PriorityReward": "min",
+    "ShowLoadingAds": true,
+    "MintegralAppKey": "7c22942b749fe6a6e361b675e96b3ee9",
+    "HuaweiInterstitial": "testb4znbuh3n2",
+    "YandexInterstitial": "demo-interstitial-yandex",
+    "priorityInterstitial": "min",
+    "MintegralRewardUnitID": "290651",
+    "MintegralRewardPlacementID": "462372",
+    "MintegralInterstitialUnitID": "290653",
+    "MintegralInterstitialPlacementID": "462374"
   },
-
   "ControlApp": {
-    "ShowUpdate": true,
-    "UpdateVersion": 1,
-    "UpdateLink": "https://play.google.com/store/apps/details?id=com.livefootballtvhd.footballtv_watchlive2023",
-
-    "ShowIPTV": true,
     "IPTVLink": "",
-
+    "ShowIPTV": true,
     "ShowPlayer": "fr",
-    "ShowChannels": true,
-
-    "PrivacyPolicyLink": "https://google.com",
+    "ShowUpdate": true,
+    "UpdateLink": "https://play.google.com/store/apps/details?id=com.livefootballtvhd.footballtv_watchlive2023",
     "OnesignalID": "0128ec07-6774-4d4f-ac16-dbc721d011da",
-
-    "FreePlayer": {
-      "Link": "https://free.com",
-      "Intent": "com.soccer.newplayer"
-    },
-
-    "PremiumPlayer": {
-      "Link": "https://premium.com",
-      "Intent": "com.soccer.newplayerooo"
-    }
+    "ShowChannels": true,
+    "UpdateVersion": 1,
+    "FreePlayerLink": "https://free.com",
+    "FreePlayerIntent": "com.soccer.newplayer",
+    "PremiumPlayerlink": "https://premium.com",
+    "PrivacyPolicyLink": "https://google.com",
+    "PremiumPlayerIntent": "com.soccer.newplayerooo"
   }
 }
