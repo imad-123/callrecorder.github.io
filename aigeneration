@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "name": "Top Styles",
+      "styles": [
+        {
+          "name": "No Style",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": " "
+        },
+        {
+          "name": "Pixel Art",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "pixel art style, 8-bit gaming, retro"
+        },
+        {
+          "name": "Isometric",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "isometric perspective, geometric design, clean lines"
+        },
+        {
+          "name": "Minimalist",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "minimalist style, simple lines, limited color palette"
+        }
+      ]
+    },
+    {
+      "name": "Painting",
+      "styles": [
+        {
+          "name": "Watercolor",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+          "promptText": "watercolor painting, soft edges, artistic brushstrokes"
+        },
+        {
+          "name": "Oil Painting",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
+          "promptText": "oil painting, textured canvas, classical art style"
+        },
+        {
+          "name": "Abstract",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+          "promptText": "abstract art, geometric shapes, bold colors"
+        },
+        {
+          "name": "Pop Art",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+          "promptText": "pop art style, bold colors, comic book inspired"
+        }
+      ]
+    },
+    {
+      "name": "Digital Art",
+      "styles": [
+        {
+          "name": "3D Render",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+          "promptText": "3D rendered, highly detailed, photorealistic lighting"
+        },
+        {
+          "name": "Futuristic",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
+          "promptText": "futuristic style, neon lights, cyberpunk aesthetic"
+        },
+        {
+          "name": "Vaporwave",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+          "promptText": "vaporwave aesthetic, pastel colors, retro digital art"
+        }
+      ]
+    },
+    {
+      "name": "Traditional",
+      "styles": [
+        {
+          "name": "Pencil Sketch",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+          "promptText": "pencil sketch, detailed linework, hand-drawn"
+        }
+      ]
+    },
+    {
+      "name": "Thematic",
+      "styles": [
+        {
+          "name": "Gothic",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
+          "promptText": "gothic style, dark atmosphere, ornate details"
+        },
+        {
+          "name": "Sci-Fi",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
+          "promptText": "science fiction, space themes, futuristic technology"
+        },
+        {
+          "name": "Fantasy",
+          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "promptText": "fantasy art, magical elements, mystical creatures"
+        }
+      ]
+    }
+  ]
+}
