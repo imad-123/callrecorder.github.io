@@ -6,22 +6,26 @@
         {
           "name": "No Style",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/effect.png",
-          "promptText": " "
+          "promptText": " ",
+          "api":"prodiatxt2img"
         },
         {
           "name": "Pixel Art",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "pixel art style, 8-bit gaming, retro"
+          "promptText": "pixel art style, 8-bit gaming, retro",
+          "api":"prodiatxt2img"
         },
         {
           "name": "Isometric",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "isometric perspective, geometric design, clean lines"
+          "promptText": "isometric perspective, geometric design, clean lines",
+          "api":"prodiatxt2img"
         },
         {
           "name": "Minimalist",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "minimalist style, simple lines, limited color palette"
+          "promptText": "minimalist style, simple lines, limited color palette",
+          "api":"prodiatxt2img"
         }
       ]
     },
@@ -31,22 +35,26 @@
         {
           "name": "Watercolor",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "watercolor painting, soft edges, artistic brushstrokes"
+          "promptText": "watercolor painting, soft edges, artistic brushstrokes",
+          "api":"prodiaghibli"
         },
         {
           "name": "Oil Painting",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
-          "promptText": "oil painting, textured canvas, classical art style"
+          "promptText": "oil painting, textured canvas, classical art style",
+          "api":"prodiaghibli"
         },
         {
           "name": "Abstract",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "abstract art, geometric shapes, bold colors"
+          "promptText": "abstract art, geometric shapes, bold colors",
+          "api":"prodiaghibli"
         },
         {
           "name": "Pop Art",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "pop art style, bold colors, comic book inspired"
+          "promptText": "pop art style, bold colors, comic book inspired",
+          "api":"prodiaghibli"
         }
       ]
     },
@@ -56,17 +64,20 @@
         {
           "name": "3D Render",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "3D rendered, highly detailed, photorealistic lighting"
+          "promptText": "3D rendered, highly detailed, photorealistic lighting",
+          "api":"prodiaghibli"
         },
         {
           "name": "Futuristic",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
-          "promptText": "futuristic style, neon lights, cyberpunk aesthetic"
+          "promptText": "futuristic style, neon lights, cyberpunk aesthetic",
+          "api":"prodiaghibli"
         },
         {
           "name": "Vaporwave",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
-          "promptText": "vaporwave aesthetic, pastel colors, retro digital art"
+          "promptText": "vaporwave aesthetic, pastel colors, retro digital art",
+          "api":"prodiaghibli"
         }
       ]
     },
@@ -76,7 +87,8 @@
         {
           "name": "Pencil Sketch",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "pencil sketch, detailed linework, hand-drawn"
+          "promptText": "pencil sketch, detailed linework, hand-drawn",
+          "api":"dalle2"
         }
       ]
     },
@@ -86,17 +98,20 @@
         {
           "name": "Gothic",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
-          "promptText": "gothic style, dark atmosphere, ornate details"
+          "promptText": "gothic style, dark atmosphere, ornate details",
+          "api":"prodiaghibli"
         },
         {
           "name": "Sci-Fi",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
-          "promptText": "science fiction, space themes, futuristic technology"
+          "promptText": "science fiction, space themes, futuristic technology",
+          "api":"prodiaghibli"
         },
         {
           "name": "Fantasy",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
-          "promptText": "fantasy art, magical elements, mystical creatures"
+          "promptText": "fantasy art, magical elements, mystical creatures",
+          "api":"prodiaghibli"
         }
       ]
     }
