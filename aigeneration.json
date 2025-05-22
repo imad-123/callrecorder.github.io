@@ -98,7 +98,7 @@
         {
           "name": "Gothic",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
-          "promptText": "transfer to ghibli",
+          "promptText": "Transform this image into the style of Studio Ghibli — soft, whimsical, painterly textures, warm color palette, lush natural scenery, dreamy lighting, detailed backgrounds, expressive characters, magical realism, inspired by films like Spirited Away, My Neighbor Totoro, and Howl’s Moving Castle",
           "api":"prodiaghibli"
         },
         {
