@@ -5,6 +5,8 @@
    "ShowLoadingAds":true,
   
   "DEFAULT_COINS": 50,
+  "OWNED_COINS_FOR_REWARD_WATCH": 5,
+  "IMAGE_GENERATION_COST": 10,
   
  
   "admob_inter":"ca-app-pub-3940256099942544/1033173712",
