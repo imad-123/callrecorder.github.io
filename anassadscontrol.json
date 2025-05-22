@@ -4,7 +4,7 @@
   "ClickCount":1,
    "ShowLoadingAds":true,
   
-  "DEFAULT_COINS": "50",
+  "DEFAULT_COINS": 50,
   
  
   "admob_inter":"ca-app-pub-3940256099942544/1033173712",
