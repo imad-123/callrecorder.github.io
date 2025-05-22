@@ -87,7 +87,7 @@
         {
           "name": "Pencil Sketch",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
-          "promptText": "pencil sketch, detailed linework, hand-drawn",
+          "promptText": "Create an action figure styled like a toy in a plastic blister package on a cardboard backing. The figure should be based on a [describe person: e.g., young girl with long curly brown hair wearing a navy blue dress], posed naturally inside the packaging. Include accessories that reflect the character’s interests or surroundings from the photo, such as a [e.g., tablet, book, or plush toy]. The packaging should include a bold title like 'GIRL' or a creative name at the top and a section labeled 'ACCESSORIES' showing the items. The background should be a clean, softly lit cream color with a harmonious, child-friendly color palette like teal, navy, and peach",
           "api":"dalle2"
         }
       ]
@@ -98,7 +98,7 @@
         {
           "name": "Gothic",
           "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev1.png",
-          "promptText": "gothic style, dark atmosphere, ornate details",
+          "promptText": "transfer to ghibli",
           "api":"prodiaghibli"
         },
         {
