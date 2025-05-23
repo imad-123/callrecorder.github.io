@@ -7,6 +7,9 @@
   "DEFAULT_COINS": 50,
   "OWNED_COINS_FOR_REWARD_WATCH": 5,
   "IMAGE_GENERATION_COST": 10,
+
+  "number_of_sessions_to_show": 1,
+  "number_of_stars_to_rate": "4f",
   
  
   "admob_inter":"ca-app-pub-3940256099942544/1033173712",
