@@ -1,0 +1,44 @@
+{
+ 
+
+  
+  
+  
+   "AdsController": {
+
+    "README": "To run ads for each network, enter one of the following: 'hws'  , 'yandex'",
+
+
+    "BannerNetwork"          : "hws",
+    "InterstitialNetwork"    : "hws",
+    "InterstitialNetworkHome": "hws",
+    "RewardNetwork"          : "hws",
+    "NativeNetwork"          : "hws",
+    
+    "AdInterval"          : 1,
+    "NativeAdRow"         : 3,
+
+    "AdPlacement": {
+
+  
+
+      "HuaweiAppId"           : "",
+      "HuaweiBanner"          : "testw6vs28auh3",
+      "HuaweiInterstitial"    : "testb4znbuh3n2",
+      "HuaweiInterstitialHome": "testb4znbuh3n2",
+      "HuaweiReward"          : "testx9dtjwj8hp",
+      "HuaweiNative"          : "testy63txaom86",
+      
+      "YandexBanner"          : "demo-banner-yandex",
+      "YandexInterstitial"    : "demo-interstitial-yandex",
+      "YandexInterstitialHome": "demo-interstitial-yandex",
+      "YandexReward"          : "demo-rewarded-yandex",
+      "YandexNative"          : "demo-native-app-yandex"
+
+    }
+
+  }
+  
+
+   
+}
