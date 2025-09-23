@@ -11,7 +11,9 @@
     "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
     "AdmobOpen":"ca-app-pub-3940256099942544/9257395921",
 
-    
+    "unity_inter": "Interstitial_Android",
+    "unity_banner": "Banner_Android",
+    "unity_gameid": "5082535",
 
     
     
