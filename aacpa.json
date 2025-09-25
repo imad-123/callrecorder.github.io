@@ -8,6 +8,7 @@
     "description": "Click the pulsing button below to update app.",
     "buttonText": "Update now",
     "tiktok":"https://tiktok.com",
+	"tiktokImage": "https://your.cdn.com/africa-wide.jpg",
     "urls":[
     	{
 	"content": "https://google.com",
