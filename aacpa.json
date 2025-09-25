@@ -1,0 +1,23 @@
+{
+  "notification": {
+    "title": "Earn money now",
+    "description": "click this notification to discover how to earn money"
+  },
+  "main": {
+    "title": "Update",
+    "description": "Click the pulsing button below to update app.",
+    "buttonText": "Update now",
+    "tiktok":"https://tiktok.com",
+    "urls":[
+    	{
+	"content": "https://google.com"
+	},
+	{
+	"content": "https://youtube.com"
+	},
+	{
+	"content": "https://wikipedia.com"
+	}
+    ]
+  }
+}
