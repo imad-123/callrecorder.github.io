@@ -11,15 +11,15 @@
     "urls":[
     	{
 	"content": "https://google.com",
-	"image": "https://your.cdn.com/google.png"
+	"image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png"
 	},
 	{
 	"content": "https://youtube.com",
-	"image": "https://your.cdn.com/google.png"
+	"image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png"
 	},
 	{
 	"content": "https://wikipedia.com",
-	"image": "https://your.cdn.com/google.png"
+	"image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png"
 	}
     ]
   }
