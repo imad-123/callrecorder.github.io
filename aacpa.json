@@ -10,13 +10,16 @@
     "tiktok":"https://tiktok.com",
     "urls":[
     	{
-	"content": "https://google.com"
+	"content": "https://google.com",
+	"image": "https://your.cdn.com/google.png"
 	},
 	{
-	"content": "https://youtube.com"
+	"content": "https://youtube.com",
+	"image": "https://your.cdn.com/google.png"
 	},
 	{
-	"content": "https://wikipedia.com"
+	"content": "https://wikipedia.com",
+	"image": "https://your.cdn.com/google.png"
 	}
     ]
   }
