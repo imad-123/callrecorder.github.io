@@ -37,9 +37,9 @@
    
 
     
-    "priorityInterstitial": "fan",
-    "PriorityBanner": "fan",
-    "PriorityNative": "fan"
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob"
     
    
     
