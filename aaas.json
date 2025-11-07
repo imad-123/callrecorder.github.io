@@ -24,9 +24,9 @@
    
 
     
-    "priorityInterstitial": "max",
-    "PriorityBanner": "max",
-    "PriorityNative": "max"
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob"
     
    
     
