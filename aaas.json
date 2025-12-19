@@ -28,7 +28,8 @@
     
     "priorityInterstitial": "admob",
     "PriorityBanner": "admob",
-    "PriorityNative": "admob"
+    "PriorityNative": "admob",
+    "PriorityReward": "admob"
     
    
     
