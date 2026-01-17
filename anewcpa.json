@@ -1,0 +1,53 @@
+{
+    "notification": {
+        "title": "Earn money now",
+        "description": "click this notification to discover how to earn money"
+    },
+    "main": {
+        "title": "Update",
+        "description": "Click the pulsing button below to update app.",
+        "buttonText": "Update now",
+        "tiktok": "https://tiktok.com",
+        "tiktokImage": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+        "slider": [
+            {
+                "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+                "url": "https://google.com"
+            },
+            {
+                "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
+                "url": "https://youtube.com"
+            },
+            {
+                "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+                "url": "https://wikipedia.com"
+            },
+            {
+                "image": "https://picsum.photos/seed/earn_money/1200/600",
+                "url": "https://example.com/earn-reward"
+            }
+        ],
+        "apps": [
+            {
+                "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+                "content": "https://google.com",
+                "title": "Google"
+            },
+            {
+                "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev2.png",
+                "content": "https://youtube.com",
+                "title": "YouTube"
+            },
+            {
+                "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev3.png",
+                "content": "https://wikipedia.com",
+                "title": "Wikipedia"
+            },
+            {
+                "image": "https://picsum.photos/seed/bonus/600/600",
+                "content": "https://example.com/earn-reward",
+                "title": "Bonus"
+            }
+        ]
+    }
+}
