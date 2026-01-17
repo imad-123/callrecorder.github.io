@@ -9,6 +9,7 @@
         "buttonText": "Update now",
         "tiktok": "https://tiktok.com",
         "tiktokImage": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/animev4.png",
+        "enable_notifications": true,
         "slider": [
             {
                 "image": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
