@@ -3,23 +3,12 @@
     {
       "category_name": "Naruto",
       "folder_name": "naruto",
-      "images": [
-        {
-          "image_url": "https://your-server.com/aime/naruto/naruto_head.png"
-        },
-        {
-          "image_url": "https://your-server.com/aime/naruto/sasuke.png"
-        }
-      ]
+      "image_count": 15
     },
     {
       "category_name": "One Piece",
       "folder_name": "one_piece",
-      "images": [
-        {
-          "image_url": "https://your-server.com/aime/one_piece/luffy.png"
-        }
-      ]
+      "image_count": 5
     }
   ]
 }
