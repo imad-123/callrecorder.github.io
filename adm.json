@@ -1,7 +1,7 @@
 {
   "ads": {
     "ShowAds": true,
-    "ShowLoadingAds": false,
+    "ShowLoadingAds": true,
     "ShowAdsEverywhere": false,
     "ClickCount": 0,
     
