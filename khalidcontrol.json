@@ -1,0 +1,10 @@
+{
+  "control": {
+    "Showplayer": true,
+    "showsubscibe": true,
+    "showtrend": true,
+    "showsearch": true,
+    "showadmob": true,
+    "showhuawei": true
+  }
+}
