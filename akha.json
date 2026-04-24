@@ -3,7 +3,7 @@
     "Showplayer": true,
     "showsubscibe": true,
     "showtrend": false,
-    "showsearch": true,
+    "showsearch": false,
     "showadmob": true,
     "showhuawei": true,
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
